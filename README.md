@@ -114,7 +114,6 @@ Target Audience: Specify who the product is for (e.g., developers, businesses).
 Quick Start: Provide a link or brief instructions to get started quickly.
 
 Example:
-Copy
 # Project Name
 A task management tool designed to help remote teams collaborate efficiently.
 
@@ -134,7 +133,6 @@ Visuals: Include a screenshot or diagram to showcase the product in action.
 Examples: Provide a use case or scenario to illustrate its value.
 
 Example:
-Copy
 ## Purpose
 This tool simplifies project management by providing a centralized platform for task tracking and team collaboration.
 
